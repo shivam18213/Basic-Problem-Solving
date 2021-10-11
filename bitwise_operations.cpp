@@ -21,5 +21,6 @@ int main(){
     cout<<"Number of digits in binary form of an integer is (int(log base 2(n))+1) = ";
     cout<<int(log2(n1))+1<<"\n";
 //    odd_even(n2);
-    clear_ith_bit(n2,2);
+//   last_set_bit_to_zero(14);
+find_mask_of_rightmost_set_bit(12);
 }
